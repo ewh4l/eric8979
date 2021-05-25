@@ -1,12 +1,22 @@
-### Hi there 👋
+# 🐋 Welcome to Eric Whale's github page 🐋
+
+## 🔭 I am...
+
+- Currently a student majoring Computer Engineering (2019 ~ )
+- I tend to dig deep in one area, to fully understand the structure and mechanism.
+  
+🌱 Learning 
+I recently targeted to become a backend dev.
+
+- Language: JS, Python
+- I have basic understanding on... 
+  - React
+  - node.js
+  - express
+  - mongoDB(NoSQL database)
+
 
 <!--
-**eric8979/eric8979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
