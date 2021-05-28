@@ -2,7 +2,7 @@
 
 ## 🔭 I am...
 
-- Currently a student majoring Computer Engineering (2019 ~ )
+- Student majoring Computer Engineering (2019 ~ )
 - I tend to dig deep in one area, to fully understand the structure and mechanism.
   
 ## 🌱 Learning 
