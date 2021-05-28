@@ -7,8 +7,6 @@
   
 ## 🌱 Learning 
 
-⚠️ I recently targeted to become a Backend Dev.
-
 - Language: JS, Python
 - I have basic understanding on... 
   - React
