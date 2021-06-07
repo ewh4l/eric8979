@@ -1,4 +1,4 @@
-# 🐋 Welcome to Eric Whale's github page 🐋
+# 🐋 Welcome to Eric Whale's page 🐋
 
 ## 🔭 Who
 
