@@ -1,18 +1,19 @@
 # 🐋 Welcome to Eric Whale's github page 🐋
 
-## 🔭 I am...
+## 🔭 Who
 
 - Student majoring Computer Engineering (2019 ~ )
 - I tend to dig deep in one area, to fully understand the structure and mechanism.
   
-## 🌱 Learning 
+## 🌱 What
 
-- Language: JS, Python
+- Language: JS/TS, Python
 - I have basic understanding on... 
   - React
   - node.js
   - express
-  - mongoDB(NoSQL database)
+  - graphQL
+  - mongoDB
 
 
 <!--
