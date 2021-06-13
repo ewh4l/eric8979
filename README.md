@@ -14,6 +14,7 @@
   - express
   - graphQL
   - mongoDB
+  - Gatsby
 
 
 <!--
