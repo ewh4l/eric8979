@@ -1,7 +1,8 @@
 # 🐋 Welcome to Eric Whale's page 🐋
 
-## 🔭 Who
+blog: [codingwhale.netlify.app](https://codingwhale.netlify.app)
 
+## 🔭 Who 
 - Student majoring Computer Engineering (2019 ~ )
 - I tend to dig deep in one area, to fully understand the structure and mechanism.
   
@@ -15,7 +16,6 @@
   - graphQL
   - mongoDB
   - Gatsby
-
 
 <!--
 - 👯 I’m looking to collaborate on ...
