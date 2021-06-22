@@ -1,4 +1,4 @@
-# 🐋 Welcome to Eric Whale's page 🐋
+# 🐋 Welcome to Eric Whale's page
 
 - 📫 How to reach me: 📧 hsh048148@gmail.com / 🐦 [@ericthewhale](https://twitter.com/ericthewhale)
 - 📝 blog: [codingwhale.netlify.app](https://codingwhale.netlify.app)
