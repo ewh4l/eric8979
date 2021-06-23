@@ -10,8 +10,8 @@ I dream of a utopia, and I believe that by collective contemplation, we will get
 | Category | specifics |
 | ----------- | ----------- |
 | Language | JavaScript/TypeScript, Python, graphQL |
-| Front End | react | scss |
-| Back End | node.js/express |
+| Front-End | react | scss |
+| Back-End | node.js/express |
 | DB | mongoDB |
 | + | Gatsby |
 
