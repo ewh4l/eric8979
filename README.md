@@ -17,8 +17,8 @@ I dream of a utopia, and I believe that by collective contemplation, we will get
 
 ## 🔭 Contact me
 
-- 📧 hsh048148@gmail.com 
-- 🐦 [@ericthewhale](https://twitter.com/ericthewhale)
+- 📧 email: hsh048148@gmail.com 
+- 🐦 twitter: [@ericthewhale](https://twitter.com/ericthewhale)
 - 📝 blog: [codingwhale.netlify.app](https://codingwhale.netlify.app)
 
 <!--
