@@ -12,7 +12,6 @@ I am a University Student major in Computer Engineering. I do personal projects 
 | Front-End | react | scss |
 | Back-End | node.js/express |
 | DB | mongoDB |
-| + | Gatsby |
 
 ## 🔭 Contact me
 
