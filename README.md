@@ -13,7 +13,6 @@ I am a University Student major in Computer Engineering. I do personal projects 
 ## 🔭 Contact me
 
 - 📧 email: hsh048148@gmail.com 
-- 🐦 twitter: [@ericthewhale](https://twitter.com/ericthewhale)
 - 📝 blog: [codingwhale.netlify.app](https://codingwhale.netlify.app)
 
 <!--
