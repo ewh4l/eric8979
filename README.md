@@ -6,12 +6,9 @@ I am a University Student major in Computer Engineering. I do personal projects 
   
 ## 🧑‍💻 Skill Set
 
-| Category | specifics |
-| ----------- | ----------- |
-| Language | JavaScript/TypeScript, Python, graphQL |
-| Front-End | react | scss |
-| Back-End | node.js/express |
-| DB | mongoDB |
+- JavaScript/TypeScript, Python
+- Mern stack
+- Neovim
 
 ## 🔭 Contact me
 
