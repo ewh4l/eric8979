@@ -12,8 +12,7 @@ I am a University Student major in Computer Engineering. I do personal projects 
 
 ## 🔭 Contact me
 
-- [📧 email](hsh048148@gmail.com)
-- [📝 blog](https://codingwhale.netlify.app)
+[📧 email](hsh048148@gmail.com)  [📝 blog](https://codingwhale.netlify.app)
 
 <!--
 - 👯 I’m looking to collaborate on ...
