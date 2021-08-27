@@ -1,10 +1,9 @@
-# 🐋 Welcome to Eric Whale's page
+<h1> 🐋 Hi! I'm Eric Whale. </h1>
 
-## 😎 Bio
 
-I am a University Student major in Computer Engineering. I do personal projects and post them on GitHub. I love learning new things, so it's always fun to learn new languages and frameworks for my projects. I haven't decided on a field to focus on yet, but since I have many ideas that require a website/app, I have a skill set of a full-stack developer (specifics down below). <br>
+<p>I am a Computer Engineering student. I do personal projects and post them on GitHub. I love learning new things. I haven't decided on a field to focus on yet, but since I have many ideas that require a website/app, I have a skill set of a full-stack developer (specifics down below). </p>
   
-## 🧑‍💻 Skill Set
+---
 
 - JavaScript/TypeScript, Python
 - Mern stack
