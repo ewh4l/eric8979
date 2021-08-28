@@ -1,17 +1,6 @@
-<h1><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="33"/> 반가워요! I'm Eric Whale. </h1>
+<h1><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="33"/> Welcome!</h1>
 
-
-
-[![Gmail Badge](https://img.shields.io/badge/hsh048148@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
-<!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCEb4WYnanZcA-1KzBIDxLZA?style=social"/> -->
-
-
-<p>I am a Computer Engineering student from 🇰🇷. I do personal projects and post them on GitHub. I love learning new things. I haven't decided on a field to focus on yet, but since I have many ideas that require a website/app, I have a skill set of a full-stack developer (specifics down below). </p>
-  
----
+<p>I'm Eric Whale, Computer Engineering student. I'm currently learning fundamentals of computer engineering(Data Structure, Algorithm...) and web-development. I post my projects on GitHub (Check my pinned repos!). I am also interested in AI, data science and more.</p>
 
 <div style="display: flex, flex-direction: row">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
@@ -31,6 +20,8 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
+  
+---
 
 <br/>
 
@@ -39,6 +30,13 @@
 
 [![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric8979&theme=gruvbox&show_icons=true)](https://github.com/eric8979)
 
+---
+
+[![Gmail Badge](https://img.shields.io/badge/hsh048148@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
+<!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCEb4WYnanZcA-1KzBIDxLZA?style=social"/> -->
 
 <!--
 - 👯 I’m looking to collaborate on ...
