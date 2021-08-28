@@ -29,6 +29,11 @@
   
 ---
 
+<!-- latest 3~5 blog posts on here updated real time -->
+<!-- latest open source projects on here -->
+
+---
+
 <br/>
 
 <a href="https://github.com/eric8979">
