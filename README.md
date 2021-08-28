@@ -1,7 +1,11 @@
 <h1><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="33"/> Welcome!</h1>
 <!-- animated emoji: https://www.animatedemojis.com/ -->
 
-<p>I'm Eric Whale, Computer Engineering student. I'm currently learning fundamentals of computer engineering(Data Structure, Algorithm...) and web-development. I post my projects on GitHub (Check my pinned repos!). I am also interested in AI and Data Science.</p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
+
+<p>I'm Eric Whale, Computer Engineering student. I'm currently learning CE basics and web-development. I post my projects on GitHub (Check my pinned repos!).</p>
 
 <div style="display: flex, flex-direction: row">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
@@ -35,13 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 
----
-
-<h2>🔭 Contact me</h2>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
 
 <!--
 [![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
