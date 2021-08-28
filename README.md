@@ -35,9 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eric8979&repo=vimrc)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <h2>🔭 Contact me</h2>
