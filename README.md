@@ -1,19 +1,44 @@
-<h1> 🐋 Hi! I'm Eric Whale. </h1>
+<h1><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="33"/> 반가워요! I'm Eric Whale. </h1>
 
 
-<p>I am a Computer Engineering student. I do personal projects and post them on GitHub. I love learning new things. I haven't decided on a field to focus on yet, but since I have many ideas that require a website/app, I have a skill set of a full-stack developer (specifics down below). </p>
+
+[![Gmail Badge](https://img.shields.io/badge/hsh048148@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
+<!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCEb4WYnanZcA-1KzBIDxLZA?style=social"/> -->
+
+
+<p>I am a Computer Engineering student from 🇰🇷. I do personal projects and post them on GitHub. I love learning new things. I haven't decided on a field to focus on yet, but since I have many ideas that require a website/app, I have a skill set of a full-stack developer (specifics down below). </p>
   
 ---
 
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python icon by Icons8</a>
-- JavaScript/TypeScript, Python
-- Mern stack
-- Neovim
+<div style="display: flex, flex-direction: row">
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img alt="node" src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="express" src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
 
-## 🔭 Contact me
+<br/>
 
-[📧 email](hsh048148@gmail.com)  [📝 blog](https://codingwhale.netlify.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric8979&theme=gruvbox&show_icons=true)](https://github.com/eric8979)
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
