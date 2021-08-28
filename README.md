@@ -5,6 +5,8 @@
   
 ---
 
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python icon by Icons8</a>
 - JavaScript/TypeScript, Python
 - Mern stack
 - Neovim
