@@ -1,6 +1,7 @@
 <h1><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="33"/> Welcome!</h1>
+<!-- animated emoji: https://www.animatedemojis.com/ -->
 
-<p>I'm Eric Whale, Computer Engineering student. I'm currently learning fundamentals of computer engineering(Data Structure, Algorithm...) and web-development. I post my projects on GitHub (Check my pinned repos!). I am also interested in AI, data science and more.</p>
+<p>I'm Eric Whale, Computer Engineering student. I'm currently learning fundamentals of computer engineering(Data Structure, Algorithm...) and web-development. I post my projects on GitHub (Check my pinned repos!). I am also interested in AI and Data Science.</p>
 
 <div style="display: flex, flex-direction: row">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
@@ -20,28 +21,35 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
+<!-- https://simpleicons.org/  & https://shields.io/ -->
   
 ---
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/eric8979">
+  <img src="https://github-readme-stats.vercel.app/api?username=eric8979&theme=gruvbox&show_icons=true"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+</a>
 
 
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric8979&theme=gruvbox&show_icons=true)](https://github.com/eric8979)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eric8979&repo=vimrc)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Gmail Badge](https://img.shields.io/badge/hsh048148@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
+<h2>🔭 Contact me</h2>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
-<!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCEb4WYnanZcA-1KzBIDxLZA?style=social"/> -->
 
 <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
+<img src="https://img.shields.io/youtube/channel/subscribers/UCEb4WYnanZcA-1KzBIDxLZA?style=social"/>
 -->
+
+
+
