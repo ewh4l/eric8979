@@ -46,6 +46,7 @@ THINK TO ADD...
 [![Youtube Badge](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)](https://www.youtube.com/channel/UCEb4WYnanZcA-1KzBIDxLZA)
 <img src="https://img.shields.io/youtube/channel/subscribers/UCEb4WYnanZcA-1KzBIDxLZA?style=social"/>
 
+Self Updating! (https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
 - latest 3~5 blog posts on here updated real time
 - latest open source projects on here
 
