@@ -7,7 +7,7 @@
 
 🐋 I'm Eric Whale, a Computer Engineering student.
 
-💻 Currently Studying: CE basics and web development. (Post projects on GitHub. Check my 📌 repos!)
+💻 I'm currently studying: CE basics and web development. (Post projects on GitHub. Check my 📌 repos!)
 
 <div style="display: flex, flex-direction: row">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
