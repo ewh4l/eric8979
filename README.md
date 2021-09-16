@@ -1,12 +1,13 @@
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
+<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="28"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
+<!-- animated emoji: https://www.animatedemojis.com/ -->
 
-<img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="22"/> Bio: Computer Engineering student.
 
-<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="22"/> Currently Learning: CE basics and web development. (Post projects on GitHub. Check my 📌 repos!)
 
-<div style="display: flex, flex-direction: row">
+**🛠 ToolBelt**
+
+<div style="display: flex, flex-direction: row"> 
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
@@ -25,7 +26,15 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 <!-- https://simpleicons.org/  & https://shields.io/ -->
-  
+
+<br/>
+
+💻 **Currently Learning**
+
+* CE basics (Data Structure and Algorithms)
+* Web Development
+(Post projects on GitHub. Check my 📌 repos!)
+
 ---
 
 <a href="https://github.com/eric8979">
@@ -38,7 +47,6 @@
 
 
 
-<!-- animated emoji: https://www.animatedemojis.com/ -->
 <!--
 THINK TO ADD...
 
