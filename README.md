@@ -31,7 +31,7 @@
 
 💻 **Currently Learning**
 
-* CE basics (Data Structure and Algorithms)
+* CE Basics (Data Structure and Algorithms)
 * Web Development
 (Post projects on GitHub. Check my 📌 repos!)
 
