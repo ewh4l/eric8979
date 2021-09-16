@@ -1,13 +1,10 @@
-<h1><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="33"/> Welcome!</h1>
-<!-- animated emoji: https://www.animatedemojis.com/ -->
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
 
-🐋 Bio: Eric Whale, a Computer Engineering student.
+<img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-alien.gif" width="22"/> Bio: Computer Engineering student.
 
-💻 Currently learning: CE basics and web development. (Post projects on GitHub. Check my 📌 repos!)
+<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="22"/> Currently Learning: CE basics and web development. (Post projects on GitHub. Check my 📌 repos!)
 
 <div style="display: flex, flex-direction: row">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
@@ -40,6 +37,8 @@
 </a>
 
 
+
+<!-- animated emoji: https://www.animatedemojis.com/ -->
 <!--
 THINK TO ADD...
 
