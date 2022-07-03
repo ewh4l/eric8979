@@ -5,7 +5,7 @@
 
 
 
-**🛠 ToolBelt**
+<h2>🛠 ToolBelt</h2>
 
 <div style="display: flex, flex-direction: row"> 
 <b>MAIN : </b>
@@ -29,14 +29,15 @@
 </div>
 <!-- https://simpleicons.org/  & https://shields.io/ -->
 
-<br/>
 
-💻 **Currently Learning**
+<h2>💻 Currently Learning</h2>
 
-* CE Basics (Data Structures and Algorithms)
-* Python (Upload projects on GitHub. Check 📌 repos!)
+* CS Basics (Data Structures and Algorithms)
+* Python
 * Networking
 * Linux
+
+> Upload projects on GitHub. Check 📌 Repos!
 
 ---
 
