@@ -34,7 +34,7 @@
 
 * CS Basics (Data Structures and Algorithms)
 * Python
-* Networking
+* Web & Networking
 * Linux
 
 > Upload projects on GitHub. Check 📌 Repos!
