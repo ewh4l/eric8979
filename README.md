@@ -3,6 +3,10 @@
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
 <!-- animated emoji: https://www.animatedemojis.com/ -->
 
+<h3>
+✏️ Personal Coding blog : <a href="https://www.ericwhaleblog.com">ericwhaleblog.com</a>
+(<a href="https://github.com/eric8979/blog">repo link</a>)
+</h3>
 
 
 <h2>🛠 ToolBelt</h2>
