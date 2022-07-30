@@ -5,7 +5,7 @@
 
 <h3>
 ✏️ Personal Coding blog : <a href="https://www.ericwhaleblog.com">ericwhaleblog.com</a>
-(<a href="https://github.com/eric8979/blog">repo link</a>)
+(<a href="https://github.com/eric8979/blog">repository</a>)
 </h3>
 
 
