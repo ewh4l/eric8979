@@ -20,7 +20,7 @@
 </div>
 
 <div style="display: flex, flex-direction: row"> 
-<b>Know Basics : </b>
+<b>Know-Basics : </b>
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
