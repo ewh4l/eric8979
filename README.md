@@ -1,6 +1,7 @@
-<a href="https://leetcode.com/hsh048148/"><img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="28"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
+[![leetcode Badge](https://img.shields.io/badge/leetcode-FEA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/hsh048148)](https://leetcode.com/hsh048148)
 <!-- animated emoji: https://www.animatedemojis.com/ -->
 
 <h3>
@@ -14,14 +15,14 @@
 <b>MAIN : </b>
 <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
 <div style="display: flex, flex-direction: row"> 
 <b>Know-Basics : </b>
- <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="node" src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -33,7 +34,7 @@
 <!-- https://simpleicons.org/  & https://shields.io/ -->
 
 
-<h2>💻 Currently Learning</h2>
+<h2><img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="28"/> Currently Learning</h2>
 
 * CS Basics (Data Structures and Algorithms)
 * Python
