@@ -36,7 +36,13 @@
 * Web(Back-End) & Networking
 * Linux
 
-> Upload projects on GitHub. Check 📌 Repos!
+---
+
+<h2><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-diamond.gif" width="28"/> Project</h2>
+
+* <a href=""> Project Name : Description </a>
+* <a href=""> Project Name : Description </a>
+* <a href=""> Project Name : Description </a>
 
 ---
 
