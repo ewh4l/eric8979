@@ -8,6 +8,8 @@
 ✏️ Personal Coding blog : <a href="https://www.ericwhaleblog.com">ericwhaleblog.com</a>
 </h3>
 
+---
+
 <h2>🛠 ToolBelt</h2>
 
 <div style="display: flex, flex-direction: row, align-items: flex-end"> 
