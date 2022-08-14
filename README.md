@@ -31,7 +31,7 @@
 </div>
 <!-- https://simpleicons.org/  & https://shields.io/ -->
 
-<h2><img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="28"/> Currently Learning</h2>
+<h2><img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="28"/> Learning</h2>
 
 * CS Basics (Data Structures and Algorithms)
 * Python
@@ -40,7 +40,7 @@
 
 ---
 
-<h2><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-diamond.gif" width="28"/> Project</h2>
+<h2><img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-diamond.gif" width="28"/>Project</h2>
 
 * <a href=""> Project Name : Description </a>
 * <a href=""> Project Name : Description </a>
