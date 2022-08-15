@@ -1,14 +1,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hsh048148@gmail.com)](mailto:hsh048148@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-whale-4853301ab/)](https://www.linkedin.com/in/eric-whale-4853301ab/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale)
 [![leetcode Badge](https://img.shields.io/badge/leetcode-FEA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/hsh048148)](https://leetcode.com/hsh048148)
+[![blog Badge](https://img.shields.io/badge/blog-FF4500?style=for-the-badge&logo=next.js&logoColor=white&link=https://leetcode.com/hsh048148)](https://www.ericwhaleblog.com)
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale) -->
+
 <!-- animated emoji: https://www.animatedemojis.com/ -->
 
-<h3>
- <a href="https://www.ericwhaleblog.com">✏️ Personal Coding blog</a>
-</h3>
-
----
 
 <h2>🛠 ToolBelt</h2>
 
