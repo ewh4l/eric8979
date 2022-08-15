@@ -5,7 +5,7 @@
 <!-- animated emoji: https://www.animatedemojis.com/ -->
 
 <h3>
-✏️ Personal Coding blog : <a href="https://www.ericwhaleblog.com">ericwhaleblog.com</a>
+ <a href="https://www.ericwhaleblog.com">✏️ Personal Coding blog</a>
 </h3>
 
 ---
