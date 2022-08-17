@@ -12,7 +12,7 @@
 <h2>🛠 ToolBelt</h2>
 
 <div style="display: flex, flex-direction: row, align-items: flex-end">
-  Main<br/>
+  &ltMain&gt <br/>
   <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat&logo=linux&logoColor=white"/>
@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: flex, flex-direction: row">
-  Know Basics<br/>
+  &ltKnow Basics&gt <br/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
