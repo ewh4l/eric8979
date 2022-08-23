@@ -37,7 +37,6 @@
 <h2><img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="28"/> Learning</h2>
 
 * CS Basics (Data Structures and Algorithms)
-* Python
 * Web(Back-End) & Networking
 * Linux
 
