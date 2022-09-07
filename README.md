@@ -4,8 +4,6 @@
 
 [![blog Badge](https://img.shields.io/badge/blog-ericwhaleblog.com-FF4500?style=for-the-badge&logo=vercel&logoColor=black&link=https://www.ericwhaleblog.com)](https://www.ericwhaleblog.com)
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ericthewhale)](https://twitter.com/ericthewhale) -->
-
 <!-- animated emoji: https://www.animatedemojis.com/ -->
 
 
