@@ -20,6 +20,7 @@
 
 <div style="display: flex, flex-direction: row">
   &ltKnow Basics&gt <br/>
+  <img alt="C" src="https://img.shields.io/badge/CLang-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
