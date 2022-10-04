@@ -54,8 +54,9 @@
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric8979&count_private=true&show_icons=true&theme=dark)](https://github.com/eric8979/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric8979&theme=dark&layout=compact)](https://github.com/eric8979/github-readme-stats)
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric8979&theme=dark&layout=compact&langs_count=5&hide=yasnippet,perl,css,html)](https://github.com/eric8979/github-readme-stats)
+-->
 
 <!--
 THINK TO ADD...
