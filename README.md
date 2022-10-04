@@ -52,14 +52,9 @@
 
 ---
 
-<a href="https://github.com/eric8979">
-  <img src="https://github-readme-stats.vercel.app/api?username=eric8979&theme=gruvbox&show_icons=true"/>
-</a>
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric8979&count_private=true&show_icons=true&theme=dark)](https://github.com/eric8979/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric8979&theme=dark&layout=compact)](https://github.com/eric8979/github-readme-stats)
 
 
 <!--
