@@ -1,7 +1,5 @@
 ## Hack
 * [***🌨Try Hack Me*** - ewhal](https://tryhackme.com/p/ewhal/)
-  * Networking
-  * Linux
 * [***📦Hack The Box*** - ewhal](https://app.hackthebox.com/profile/1380758)
 * ***overthewire***
 
