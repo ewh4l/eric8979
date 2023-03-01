@@ -1,8 +1,8 @@
 ## Hack
 * [***🌨Try Hack Me***](https://tryhackme.com/p/ewhal/)
 * [***📦Hack The Box***](https://app.hackthebox.com/profile/1380758)
-* [😼***overthewire***]() - Currently Lv.12
-<!-- overthewire : how to solve and what to learn in blog style -->
+* [😼***overthewire***]()
+<!-- overthewire : youtube? -->
 
 ## side-project
 * <a href=""> Project Name : Description </a>
