@@ -1,5 +1,5 @@
 ## Currently playing...
-* [***👾pwnable***](https://pwnable.kr)... (ewhal)
+* [***👾pwnable***](https://pwnable.kr) (ewhal)
 * [😼***overthewire***](https://overthewire.org/wargames/)
 * [***📦Hack The Box***](https://app.hackthebox.com/profile/1380758)
 
